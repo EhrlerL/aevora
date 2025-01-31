@@ -24,7 +24,7 @@ function Footer({ props }) {
                             <Col>AEVORA &copy; 2025</Col>
                         </Row>
                         <Row>
-                            <Col>by J S Fiedler & L J Ehrler</Col>
+                            <Col>by <a href="https://jaredseanfiedler.cargo.site/" target="_blank">J S Fiedler</a> & L J Ehrler</Col>
                         </Row>
                         <Row>
                             <Col>all rights reserved.</Col>

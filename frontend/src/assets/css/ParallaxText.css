@@ -1,0 +1,12 @@
+.parallax {
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.scroller {
+    display: flex;
+    flex-wrap: nowrap;
+    will-change: transform;
+    min-width: 100vw; /* Ensures content is always stretching */
+}
