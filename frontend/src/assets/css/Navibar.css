@@ -1,0 +1,22 @@
+#navibar {
+    background-color: #000000;
+    box-shadow: 0 .3rem .3rem rgba(0, 0, 0, 0.2);
+}
+
+#logo {
+    height: 3rem;
+}
+
+#burgermenu {
+    margin: 0;
+    padding: 0;
+}
+
+#burgermenu:hover {
+    cursor: pointer;
+}
+
+#offcanvas {
+    background-color: #000000;
+    color: #FFFFFF;
+}
