@@ -9,7 +9,6 @@
 
 .text {
     position: relative;
-    color: #000000;
     z-index: 3;
 }
 .image {

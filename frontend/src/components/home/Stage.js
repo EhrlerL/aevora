@@ -22,11 +22,11 @@ function Stage({ image1, image2, image3, ...props }) {
         <section className="my-5" style={{ whiteSpace: "nowrap" }}>
             <ParallaxText baseVelocity={-5}>
                 {/*<Image src={kevisual} style={{ height: "4rem" }} className="kevisual" />*/}
-                AEVORA
+                <span style={{color: "#882F31" }}>AEVORA</span>
             </ParallaxText>
             <ParallaxText baseVelocity={5}>
                 {/*<Image src={kevisual} style={{ height: "4rem" }} className="kevisual" />*/}
-                REVOLUTION OF DRIVING
+                <span style={{color: "#C83D00" }}>REVOLUTION OF DRIVING</span>
             </ParallaxText>
         </section>
         </>

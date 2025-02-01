@@ -4,7 +4,8 @@
 }
 
 #logo {
-    height: 3rem;
+    height: 2.5rem;
+    margin: 0.5rem 3rem;
 }
 
 #burgermenu {
@@ -19,4 +20,14 @@
 #offcanvas {
     background-color: #000000;
     color: #FFFFFF;
+}
+
+.navitem {
+    text-decoration: none;
+    font-size: 16pt;
+    font-weight: 100;
+}
+
+.navitem:hover {
+    color: #C83D00;
 }
