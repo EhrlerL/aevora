@@ -3,5 +3,15 @@
 }
 
 .bgimg {
+    width: 200%;
+    position: absolute;
+    margin-top: 10rem;
+}
+
+.carimg {
+    margin: 15rem 0;
+}
+
+.outlinecar {
     width: 100%;
 }
